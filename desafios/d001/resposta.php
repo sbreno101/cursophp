@@ -21,6 +21,7 @@
                 print "O seu sucessor é $s";
             ?>
         </p>
+        <button onclick="javascript:history.go(-1)">&#x2B05; Voltar</button>
     </main>
 </body>
 </html>
